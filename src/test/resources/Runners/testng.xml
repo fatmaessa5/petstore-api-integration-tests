@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="ALLURE SUITE">
+
+    <listeners>
+        <listener class-name="io.qameta.allure.testng.AllureTestNg"/>
+    </listeners>
+
+    <test name="API Tests">
+        <classes>
+            <class name="Pages.IntegrationFlowTests"/>
+            <class name="Pages.PetTests"/>
+            <class name="Pages.StoreTests"/>
+            <class name="Pages.UserTests"/>
+        </classes>
+    </test>
+
+</suite>
