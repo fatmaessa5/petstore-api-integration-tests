@@ -114,7 +114,7 @@ A separate file, `Learned_Lessons.md`, includes a summary of key concepts gained
 **Fatma Essa**  
 Junior Software QA Engineer  
 📧 **fatma.essa566@gmail.com**  
-🔗 [LinkedIn Profile](https://linkedin.com/in/fatmaessa)  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/fatma-essa-63a658197)  
 💻 [GitHub Repository](https://github.com/fatmaessa5)
 
 ---
